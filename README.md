@@ -19,16 +19,6 @@ Se cree que lo inventaron en China entre los siglos V a. C. y III a. C., se exte
 Phasellus vitae aliquam nisi. Mauris urna urna, rhoncus sit amet porta a, ornare non ex. Morbi ultricies metus ac massa rhoncus ultrices. Etiam pharetra mauris vel mattis convallis. Nunc dignissim, diam eu vulputate laoreet, nibh sem placerat urna, sed dapibus neque sem quis nibh. Nulla in quam risus. Nam ipsum urna, mattis quis eros sit amet, fringilla tincidunt turpis. Curabitur eget erat ac quam pulvinar fringilla.
 
 
-
-
-
-
-
-
-
-
-## Instrucciones operacionales
-
 ## Instrucciones operacionales
 Phasellus vitae aliquam nisi. Mauris urna urna, rhoncus sit amet porta a, ornare non ex. Morbi ultricies metus ac massa rhoncus ultrices. Etiam pharetra mauris vel mattis convallis. Nunc dignissim, diam eu vulputate laoreet, nibh sem placerat urna, sed dapibus neque sem quis nibh. Nulla in quam risus. Nam ipsum urna, mattis quis eros sit amet, fringilla tincidunt turpis. Curabitur eget erat ac quam pulvinar fringilla.
 
