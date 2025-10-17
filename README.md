@@ -8,3 +8,9 @@
 4. Instrucciones Operacionales
 5. Instalacion
 6. Agradecimientos
+
+## Presentacion
+El fundíbulo, trabuquete, almajaneque o lanzapiedras fue un arma de asedio medieval, empleada para destruir murallas o lanzar proyectiles de piedra sobre los muros.
+
+Se cree que lo inventaron en China entre los siglos V a. C. y III a. C., se extendió hacia el oeste por los ávaros, siendo adoptado por los bizantinos a mitad del siglo V. El fundíbulo de contrapeso fue un perfeccionamiento del fundíbulo de tracción, apareció en las tierras cristianas y musulmanas del mediterráneo alrededor del siglo siglo XII, yendo este diseño a China en el siglo XIII a través de las conquistas mongolas. 
+
