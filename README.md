@@ -14,7 +14,7 @@ El fundíbulo, trabuquete, almajaneque o lanzapiedras fue un arma de asedio medi
 
 Se cree que lo inventaron en China entre los siglos V a. C. y III a. C., se extendió hacia el oeste por los ávaros, siendo adoptado por los bizantinos a mitad del siglo V. El fundíbulo de contrapeso fue un perfeccionamiento del fundíbulo de tracción, apareció en las tierras cristianas y musulmanas del mediterráneo alrededor del siglo siglo XII, yendo este diseño a China en el siglo XIII a través de las conquistas mongolas. 
 
-# El proyecto
+## El proyecto
 
 
 
@@ -26,7 +26,7 @@ Se cree que lo inventaron en China entre los siglos V a. C. y III a. C., se exte
 
 
 
-# Instrucciones operacionales
+## Instrucciones operacionales
 
 
 
@@ -38,7 +38,7 @@ Se cree que lo inventaron en China entre los siglos V a. C. y III a. C., se exte
 
 
 
-# Instalacion
+## Instalacion
 
 
 
@@ -49,4 +49,4 @@ Se cree que lo inventaron en China entre los siglos V a. C. y III a. C., se exte
 
 
 
-#Agradecimientos
+## Agradecimientos
