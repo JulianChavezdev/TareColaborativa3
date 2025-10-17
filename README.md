@@ -5,4 +5,6 @@
 ### Indice :
 1. Presentacion
 2. El proyecto
-3. Etc
+3. Instrucciones Operacionales
+3. Instalacion
+3. Agradecimientos
